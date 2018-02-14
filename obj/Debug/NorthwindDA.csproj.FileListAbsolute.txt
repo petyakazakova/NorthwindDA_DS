@@ -1,0 +1,69 @@
+C:\Users\tor\Documents\Visual Studio 2017\DB2017fall\NorthwindDA\NorthwindDA\bin\roslyn\csc.exe
+C:\Users\tor\Documents\Visual Studio 2017\DB2017fall\NorthwindDA\NorthwindDA\bin\roslyn\csc.exe.config
+C:\Users\tor\Documents\Visual Studio 2017\DB2017fall\NorthwindDA\NorthwindDA\bin\roslyn\csc.rsp
+C:\Users\tor\Documents\Visual Studio 2017\DB2017fall\NorthwindDA\NorthwindDA\bin\roslyn\csi.exe
+C:\Users\tor\Documents\Visual Studio 2017\DB2017fall\NorthwindDA\NorthwindDA\bin\roslyn\csi.rsp
+C:\Users\tor\Documents\Visual Studio 2017\DB2017fall\NorthwindDA\NorthwindDA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tor\Documents\Visual Studio 2017\DB2017fall\NorthwindDA\NorthwindDA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tor\Documents\Visual Studio 2017\DB2017fall\NorthwindDA\NorthwindDA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tor\Documents\Visual Studio 2017\DB2017fall\NorthwindDA\NorthwindDA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tor\Documents\Visual Studio 2017\DB2017fall\NorthwindDA\NorthwindDA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tor\Documents\Visual Studio 2017\DB2017fall\NorthwindDA\NorthwindDA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tor\Documents\Visual Studio 2017\DB2017fall\NorthwindDA\NorthwindDA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tor\Documents\Visual Studio 2017\DB2017fall\NorthwindDA\NorthwindDA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tor\Documents\Visual Studio 2017\DB2017fall\NorthwindDA\NorthwindDA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tor\Documents\Visual Studio 2017\DB2017fall\NorthwindDA\NorthwindDA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tor\Documents\Visual Studio 2017\DB2017fall\NorthwindDA\NorthwindDA\bin\roslyn\System.AppContext.dll
+C:\Users\tor\Documents\Visual Studio 2017\DB2017fall\NorthwindDA\NorthwindDA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tor\Documents\Visual Studio 2017\DB2017fall\NorthwindDA\NorthwindDA\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tor\Documents\Visual Studio 2017\DB2017fall\NorthwindDA\NorthwindDA\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tor\Documents\Visual Studio 2017\DB2017fall\NorthwindDA\NorthwindDA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tor\Documents\Visual Studio 2017\DB2017fall\NorthwindDA\NorthwindDA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tor\Documents\Visual Studio 2017\DB2017fall\NorthwindDA\NorthwindDA\bin\roslyn\vbc.exe
+C:\Users\tor\Documents\Visual Studio 2017\DB2017fall\NorthwindDA\NorthwindDA\bin\roslyn\vbc.exe.config
+C:\Users\tor\Documents\Visual Studio 2017\DB2017fall\NorthwindDA\NorthwindDA\bin\roslyn\vbc.rsp
+C:\Users\tor\Documents\Visual Studio 2017\DB2017fall\NorthwindDA\NorthwindDA\bin\roslyn\VBCSCompiler.exe
+C:\Users\tor\Documents\Visual Studio 2017\DB2017fall\NorthwindDA\NorthwindDA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tor\Documents\Visual Studio 2017\DB2017fall\NorthwindDA\NorthwindDA\bin\NorthwindDA.dll.config
+C:\Users\tor\Documents\Visual Studio 2017\DB2017fall\NorthwindDA\NorthwindDA\bin\NorthwindDA.dll
+C:\Users\tor\Documents\Visual Studio 2017\DB2017fall\NorthwindDA\NorthwindDA\bin\NorthwindDA.pdb
+C:\Users\tor\Documents\Visual Studio 2017\DB2017fall\NorthwindDA\NorthwindDA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tor\Documents\Visual Studio 2017\DB2017fall\NorthwindDA\NorthwindDA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tor\Documents\Visual Studio 2017\DB2017fall\NorthwindDA\NorthwindDA\obj\Debug\NorthwindDA.csprojResolveAssemblyReference.cache
+C:\Users\tor\Documents\Visual Studio 2017\DB2017fall\NorthwindDA\NorthwindDA\obj\Debug\NorthwindDA.dll
+C:\Users\tor\Documents\Visual Studio 2017\DB2017fall\NorthwindDA\NorthwindDA\obj\Debug\NorthwindDA.pdb
+C:\Users\Petya\source\repos\TOR\Day111017\Day111017\NorthwindDA\NorthwindDA\bin\roslyn\csc.exe
+C:\Users\Petya\source\repos\TOR\Day111017\Day111017\NorthwindDA\NorthwindDA\bin\roslyn\csc.exe.config
+C:\Users\Petya\source\repos\TOR\Day111017\Day111017\NorthwindDA\NorthwindDA\bin\roslyn\csc.rsp
+C:\Users\Petya\source\repos\TOR\Day111017\Day111017\NorthwindDA\NorthwindDA\bin\roslyn\csi.exe
+C:\Users\Petya\source\repos\TOR\Day111017\Day111017\NorthwindDA\NorthwindDA\bin\roslyn\csi.rsp
+C:\Users\Petya\source\repos\TOR\Day111017\Day111017\NorthwindDA\NorthwindDA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Petya\source\repos\TOR\Day111017\Day111017\NorthwindDA\NorthwindDA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Petya\source\repos\TOR\Day111017\Day111017\NorthwindDA\NorthwindDA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Petya\source\repos\TOR\Day111017\Day111017\NorthwindDA\NorthwindDA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Petya\source\repos\TOR\Day111017\Day111017\NorthwindDA\NorthwindDA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Petya\source\repos\TOR\Day111017\Day111017\NorthwindDA\NorthwindDA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Petya\source\repos\TOR\Day111017\Day111017\NorthwindDA\NorthwindDA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Petya\source\repos\TOR\Day111017\Day111017\NorthwindDA\NorthwindDA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Petya\source\repos\TOR\Day111017\Day111017\NorthwindDA\NorthwindDA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Petya\source\repos\TOR\Day111017\Day111017\NorthwindDA\NorthwindDA\bin\roslyn\System.AppContext.dll
+C:\Users\Petya\source\repos\TOR\Day111017\Day111017\NorthwindDA\NorthwindDA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Petya\source\repos\TOR\Day111017\Day111017\NorthwindDA\NorthwindDA\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Petya\source\repos\TOR\Day111017\Day111017\NorthwindDA\NorthwindDA\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Petya\source\repos\TOR\Day111017\Day111017\NorthwindDA\NorthwindDA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Petya\source\repos\TOR\Day111017\Day111017\NorthwindDA\NorthwindDA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Petya\source\repos\TOR\Day111017\Day111017\NorthwindDA\NorthwindDA\bin\roslyn\vbc.exe
+C:\Users\Petya\source\repos\TOR\Day111017\Day111017\NorthwindDA\NorthwindDA\bin\roslyn\vbc.exe.config
+C:\Users\Petya\source\repos\TOR\Day111017\Day111017\NorthwindDA\NorthwindDA\bin\roslyn\vbc.rsp
+C:\Users\Petya\source\repos\TOR\Day111017\Day111017\NorthwindDA\NorthwindDA\bin\roslyn\VBCSCompiler.exe
+C:\Users\Petya\source\repos\TOR\Day111017\Day111017\NorthwindDA\NorthwindDA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Petya\source\repos\TOR\Day111017\Day111017\NorthwindDA\NorthwindDA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Petya\source\repos\TOR\Day111017\Day111017\NorthwindDA\NorthwindDA\bin\NorthwindDA.dll.config
+C:\Users\Petya\source\repos\TOR\Day111017\Day111017\NorthwindDA\NorthwindDA\bin\NorthwindDA.dll
+C:\Users\Petya\source\repos\TOR\Day111017\Day111017\NorthwindDA\NorthwindDA\bin\NorthwindDA.pdb
+C:\Users\Petya\source\repos\TOR\Day111017\Day111017\NorthwindDA\NorthwindDA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Petya\source\repos\TOR\Day111017\Day111017\NorthwindDA\NorthwindDA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Petya\source\repos\TOR\Day111017\Day111017\NorthwindDA\NorthwindDA\obj\Debug\NorthwindDA.csprojResolveAssemblyReference.cache
+C:\Users\Petya\source\repos\TOR\Day111017\Day111017\NorthwindDA\NorthwindDA\obj\Debug\NorthwindDA.csproj.CoreCompileInputs.cache
+C:\Users\Petya\source\repos\TOR\Day111017\Day111017\NorthwindDA\NorthwindDA\obj\Debug\NorthwindDA.dll
+C:\Users\Petya\source\repos\TOR\Day111017\Day111017\NorthwindDA\NorthwindDA\obj\Debug\NorthwindDA.pdb
